@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "base\\": "vendor/base",
+      "app\\": "app"
+    }
+  },
+  "require": {
+    "ext-pdo": "*"
+  }
+}
